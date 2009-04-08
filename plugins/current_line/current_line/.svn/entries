@@ -1,0 +1,52 @@
+8
+
+dir
+77
+http://svn.simplesideias.com.br/general/gedit/plugins/current_line/current_line
+http://svn.simplesideias.com.br/general
+
+
+
+2007-06-29T14:08:55.663156Z
+9
+fnando
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d4718aca-d527-0410-bf26-824be32cd9e8
+
+current-line.glade
+file
+
+
+
+
+2008-02-27T00:31:56.000000Z
+007086d52b7ec7090b3b005b9812428e
+2007-06-29T14:08:55.663156Z
+9
+fnando
+
+__init__.py
+file
+
+
+
+
+2008-02-27T00:31:56.000000Z
+533cbd12d6be84eadf73a50b13a760b6
+2007-06-29T14:08:55.663156Z
+9
+fnando
+

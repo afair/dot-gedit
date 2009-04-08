@@ -1,0 +1,43 @@
+8
+
+dir
+77
+http://svn.simplesideias.com.br/general/gedit/plugins/current_line
+http://svn.simplesideias.com.br/general
+
+
+
+2007-06-29T14:08:55.663156Z
+9
+fnando
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d4718aca-d527-0410-bf26-824be32cd9e8
+
+current_line
+dir
+
+current-line.gedit-plugin
+file
+
+
+
+
+2008-02-27T00:31:56.000000Z
+56558fe94237ae9eb499d739bbccd523
+2007-06-29T14:08:55.663156Z
+9
+fnando
+

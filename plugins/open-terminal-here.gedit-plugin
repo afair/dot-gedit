@@ -1,0 +1,8 @@
+[Gedit Plugin]
+Loader=python
+Module=open-terminal-here
+IAge=2
+Name=Open Terminal Here
+Description=Open a terminal at the location of the current file
+Authors=Ramzi Ferchichi <ramzi@gafouri.net>
+Copyright=Copyright © 2005 Ramzi Ferchichi

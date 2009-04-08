@@ -1,0 +1,8 @@
+[Gedit Plugin]
+Loader=python
+Module=current_line
+IAge=2
+Name=Current Line Highlight
+Description=Ever wanted to change the current line background color? Here's your chance!
+Authors=Nando Vieira <fnando dot vieira at gmail dot com>
+Website=http://simplesideias.com.br/
